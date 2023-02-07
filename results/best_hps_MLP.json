@@ -1,0 +1,15 @@
+{
+    "activation_in": "relu",
+    "activation_out": "sigmoid",
+    "batch_size": 96,
+    "func_loss": "binary_crossentropy",
+    "kernel_init": "random_uniform",
+    "learning_rate": 0.9,
+    "metric": "accuracy",
+    "net_depth": 4,
+    "neurons_l0": 96,
+    "neurons_l1": 64,
+    "neurons_l2": 128,
+    "neurons_l3": 64,
+    "optimizer": "adam"
+}

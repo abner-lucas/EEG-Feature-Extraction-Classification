@@ -1,0 +1,22 @@
+{
+    "act_conv": "relu",
+    "act_densa_in": "tanh",
+    "act_densa_out": "sigmoid",
+    "batch_size": 64,
+    "conv_depth": 2,
+    "densa_depth": 3,
+    "filters_conv0": 48,
+    "filters_conv1": 112,
+    "func_loss": "binary_crossentropy",
+    "k_size_conv0": 4,
+    "k_size_conv1": 4,
+    "kernel_init": "random_uniform",
+    "learning_rate": 0.3,
+    "metric": "accuracy",
+    "neurons_l0": 64,
+    "neurons_l1": 64,
+    "neurons_l2": 64,
+    "optimizer": "adam",
+    "pool_size_conv0": 3,
+    "pool_size_conv1": 3
+}
